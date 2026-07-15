@@ -1,34 +1,63 @@
 # Hi there, I'm J.P.R. Weerasingha 👋
 
-I am an aspiring computer science graduate  and an active Full Stack Developer Intern. I have a strong foundation in software development, algorithms, and data structures . I am eager to contribute to innovative projects, solve real-world problems, and collaborate with a dynamic team while continuously enhancing my technical knowledge.
+### Computing & Information Systems Undergraduate
 
-*   🔭 **I’m currently working on:** my B.Sc. in Computing & Information Systems at Wayamba University of Sri Lanka  and advancing my industry skills as a Full Stack Developer Intern.
-*   🌱 **I’m currently learning:** advanced concepts in algorithms, data structures, and database design , alongside modern software development frameworks.
-*   👯 **I’m looking to collaborate on:** innovative software solutions, IoT integrations, and dynamic team initiatives .
-*   🤔 **I’m looking for help with:** exploring new problem-solving methodologies and creative tech challenges .
-*   💬 **Ask me about:** Java, PHP, MySQL, Python, Flutter, OpenCV , Responsive UI Design 
-*   📫 **How to reach me:** prasajanravishka20@gmail.com , or connect with me on [LinkedIn](https://www.linkedin.com/in/prasajan-ravishka) .
+I am an aspiring computer science graduate  and an active **Full Stack Developer Intern** passionate about building intelligent systems that bridge raw data extraction with advanced processing. I leverage my strong foundation in algorithms and software development  to create scalable solutions, integrate AI, and solve practical industry challenges.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prasajan-ravishka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prasajanravishka20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://my-portfolio-eight-sigma-94.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+---
+
+### 🚀 Quick Look
+*   🔭 **I’m currently working on:** Building real-world software solutions as a Full Stack Developer Intern, and completing my B.Sc. in Computing & Information Systems at Wayamba University of Sri Lanka .
+*   🌱 **I’m currently learning:** Advanced integrations of Large Language Models (LLMs) into automated workflows and modern web frameworks.
+*   👯 **I’m looking to collaborate on:** Innovative AI-driven software, IoT automation , and dynamic team initiatives .
+*   🤔 **I’m looking for help with:** Exploring new system architectures and problem-solving methodologies .
+*   💬 **Ask me about:** Python, Flutter, OpenCV , Gemini API workflows, and Responsive UI Design .
+*   ⚡ **Fun fact:** Outside of coding, I represent my university faculty in competitive Volleyball and Elle !
+
+---
 
 ### 💻 Technical Skills
 
-*   **Programming Languages:** Python  , Java  , C  , C++  , PHP  , JavaScript  , TypeScript , HTML  , CSS , React .
-*   **Frameworks & Libraries:** Flutter  , OpenCV  , Tesseract OCR (`pytesseract`), NumPy.
-*   **AI & Intelligent Automation:** Large Language Model Integration, Google Gemini API (`google.generativeai`), Gemini 2.5 Flash, Google Colab prototyping.
-*   **Databases & Version Control:** MySQL  ,  Supabase  , Git  , GitHub  , XAMPP  .
-*   **Design Tools:** Adobe Photoshop  , Adobe Illustrator  , Figma .
-*   **Core Competencies:** Full-Stack Web Development, Intelligent Data Extraction (OCR + LLM workflows), Responsive Web & UI Design  , Database Design & Management  .
+*   **Programming Languages:** JavaScript, TypeScript, Python, Dart, Java , PHP , C , C++ , HTML5, CSS3.
+*   **Frontend Development:** React, Next.js, Tailwind CSS, Bootstrap, Responsive Design.
+*   **Backend & APIs:** Node.js, Express.js, REST APIs, API Integration, Authentication Systems.
+*   **Mobile Development:** Flutter ,  Cross-platform App Development, Mobile UI Design.
+*   **AI & Computer Vision:** OpenCV , Tesseract OCR (`pytesseract`), NumPy, Large Language Model Integration, Google Gemini API, Gemini 2.5 Flash, Google Colab.
+*   **Databases:** MySQL , SQLite, Supabase.
+*   **Tools & Technologies:** Git , GitHub , npm, Postman, Visual Studio Code, XAMPP .
+*   **UI/UX & Design:** Figma, Adobe Photoshop , Adobe Illustrator .
+
+---
+
 ### 💼 Experience
-*   **Full Stack Developer Intern** (Present)
-    *   *Actively contributing to full-stack development lifecycles and applying academic concepts to industry-level software solutions.*
-*   **Documentation Officer | Sanmik Food (PVT) LTD** (Nov 2021 - June 2022) 
-    *   Maintained inventory records and managed the Goods Receipt Note (GRN) system within the Stores Department .
 
-### 🎓 Education
-*   **Wayamba University of Sri Lanka (2022-2026):** B.Sc. (Joint Major) Undergraduate in Computing & Information Systems with Mathematics, Mathematical Modeling, and Statistics . Current GPA is 3.250 .
-*   **Ananda College-National School, Dewalapola (2020):** G.C.E Advance Level in Physical Science .
+**Full Stack Developer Intern** | *May 2026 – Present*
+* Actively contributing to full-stack development lifecycles and building real-world software solutions.
+* Applying academic foundations in algorithms, database design, and intelligent automation to industry-level projects.
 
-### 🏆 Awards, Honors & Involvement
-*   **Certificate of Competition:** Python & Data Science Project from PyData Sri Lanka & Mathematical Society of Wayamba (Apr 2025).
-*   **1st Runners Up:** MASTER DESIGNER V2.0 at SLTC (Jul 2024) .
-*   **Wayoscope Media Unit:** Active member at Wayamba University of Sri Lanka .
-*   **Sports:** Participated in Inter Faculty Volleyball and Elle for the 2024 Championship .
+**Documentation Officer** | *Sanmik Food (PVT) LTD (Nov 2021 – June 2022)* 
+* Managed the Goods Receipt Note (GRN) system within the Stores Department, overseeing stock maintenance and inventory tracking for large-scale operations .
+
+---
+
+### 🔬 Featured Projects
+
+*   **Smart Library Management System:** A mobile application built with **Flutter** and **OpenCV** that automates book identification through image processing, book cover recognition, and QR/Barcode scanning .
+*   **IoT-Based Smart Bean Drying & Monitoring System:** A hardware-software integration using environmental sensors to autonomously regulate temperature and humidity, reducing post-harvest losses and visualizing data for remote decision-making .
+*   **Women's Fashion E-Commerce Platform:** A responsive, full-stack web application with user authentication, secure ordering, and a relational database backend built using **PHP, MySQL, and JavaScript** .
+*   **Time Series Analysis (Melbourne Transport):** A data science initiative applying statistical and forecasting techniques to a 10-year dataset to uncover travel behavior trends and seasonality .
+
+---
+
+### 🎓 Education & Honors
+
+*   **B.Sc. Computing & Information Systems** (Joint Major with Mathematics & Statistics) – Wayamba University of Sri Lanka *(2022-2026 | GPA: 3.250)* 
+*   **🏆 1st Runners Up:** MASTER DESIGNER V2.0 at SLTC *(Jul 2024)* 
+*   **🏆 Certificate of Competition:** Python & Data Science Project (PyData Sri Lanka) 
+
