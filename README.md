@@ -1,4 +1,4 @@
-# Hi there, I'm J.P.R. Weerasingha 👋
+# Hi there, I'm Prasajan Ravishka 👋
 
 ### Computing & Information Systems Undergraduate
 
