@@ -37,7 +37,7 @@ I am an aspiring computer science graduate  and an active **Full Stack Developer
 
 ### 💼 Experience
 
-**Full Stack Developer Intern** | *May 2026 – Present*
+**Full Stack Developer Intern** | *May 2026 – October 2026*
 * Actively contributing to full-stack development lifecycles and building real-world software solutions.
 * Applying academic foundations in algorithms, database design, and intelligent automation to industry-level projects.
 
